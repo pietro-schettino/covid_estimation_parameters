@@ -5,7 +5,7 @@ In this project, the standard SIR model was adopted to estimate the rate of tran
 **Step 1**:
 The specific description of the SIR model is as follows:
 
-![SIR model1](/images/sir_model.png)
+![SIR model](/images/sir.png)
 
 where β represents the actual transmission rate and γ represents the rate of removal or recovery. It is known that the total population size (N = S + I + R) is independent of time. Initially, in the absence of infection we have I + R = 0 and S≈N. We then obtain the following equation:
 
