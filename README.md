@@ -3,8 +3,8 @@ In this project, the standard SIR model was adopted to estimate the rate of tran
 
 # Requires
 - [MATLAB R2020b](https://www.mathworks.com/products/matlab.html)
-- 
-[(https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
+
+[![View COVID-19_TextAnalytics_MATLAB on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74942-covid-19_textanalytics_matlab)
 
 
 Copyright 2020 - 2020 The MathWorks, Inc.
