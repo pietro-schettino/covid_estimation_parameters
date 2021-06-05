@@ -3,6 +3,7 @@ In this project, the standard SIR model was adopted to estimate the rate of tran
 # Steps
 **Step 1**
 The specific description of the SIR model is as follows:
+
 ![SIR model](/images/sir_model.png)
 
 # Requires
