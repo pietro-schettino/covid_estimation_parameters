@@ -40,6 +40,21 @@ whence:
 
 ![SIR model8](/images/eq7.png)
 
+Calculating the values of γ referred to the single days and carrying out the arithmetic average of these values we obtain the average value of γ in the period considered.
+
+**Step 4**:
+The value of the parameter β can be calculated based on the knowledge of r and γ:
+
+![eq8](/images/eq8.png)
+
+**Step 5**:
+The value of the basic reproduction number R_0 mathematically represents the ratio of the transmission rate to the recovery rate.
+
+![eq9](/images/eq9.png)
+ 
+
+
+
 
 
 # Requires
