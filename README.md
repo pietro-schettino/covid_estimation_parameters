@@ -5,13 +5,42 @@ In this project, the standard SIR model was adopted to estimate the rate of tran
 **Step 1**:
 The specific description of the SIR model is as follows:
 
-![SIR model](/images/sir_model.png)
+![SIR model1](/images/sir_model.png)
+
 where β represents the actual transmission rate and γ represents the rate of removal or recovery. It is known that the total population size (N = S + I + R) is independent of time. Initially, in the absence of infection we have I + R = 0 and S≈N. We then obtain the following equation:
 
-![SIR model](/images/eq1.png)
+![SIR model2](/images/eq1.png)
+
 The integration of this equation give us:
 
-![SIR model](/images/eq2.png)
+![SIR model3](/images/eq2.png)
+
+**Step 2**:
+When infection occurs, the susceptible population is almost equal to the population total population (S≈N). Subsequently, the number of infected individuals I(t) first increases exponentially.
+
+![SIR model4](/images/eq3.png)
+
+Moving on to logarithms:
+
+![SIR model5](/images/eq4.png)
+
+It is a linear link in logarithmic scale and therefore we can estimate the value of r from the data represented in logarithmic scale using for example the method of least squares squares.
+
+**Step 3**:
+
+From the third equation of the SIR model:
+
+![SIR model6](/images/eq5.png)
+
+Discretizing the derivative to the first member:
+
+![SIR model7](/images/eq6.png)
+
+whence:
+
+![SIR model8](/images/eq7.png)
+
+
 
 # Requires
 - [MATLAB R2020b](https://www.mathworks.com/products/matlab.html)
