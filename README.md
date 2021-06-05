@@ -51,6 +51,8 @@ The value of the basic reproduction number R0 mathematically represents the rati
 
 ![eq9](/images/eq9.png)
 
+# Results
+
 
 # Requires
 - [MATLAB R2020b](https://www.mathworks.com/products/matlab.html)
