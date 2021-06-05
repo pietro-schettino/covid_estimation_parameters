@@ -27,7 +27,6 @@ Moving on to logarithms:
 It is a linear link in logarithmic scale and therefore we can estimate the value of r from the data represented in logarithmic scale using for example the method of least squares squares.
 
 **Step 3**:
-
 From the third equation of the SIR model:
 
 ![eq5](/images/eq5.png)
