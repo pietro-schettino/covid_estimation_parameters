@@ -53,9 +53,11 @@ The value of the basic reproduction number R0 mathematically represents the rati
 
 # Results
 
+![plot](/images/plot.png)
 
 # Requires
 - [MATLAB R2020b](https://www.mathworks.com/products/matlab.html)
+- [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19)
 
 [![](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](#)
 
