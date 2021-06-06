@@ -7,7 +7,7 @@ The specific description of the SIR model is as follows:
 
 ![SIR model](/images/sir.png)
 
-where ***β*** represents the actual transmission rate and ***γ*** represents the rate of removal or recovery. It is known that the total population size ***(N = S + I + R)*** is independent of time. Initially, in the absence of infection we have ***I + R = 0*** and ***S≈N***. We then obtain the following equation:
+where ***β*** represents the actual transmission rate and ***γ*** represents the rate of removal or recovery. It is known that the total population size ***(N=S+I+R)*** is independent of time. Initially, in the absence of infection we have ***I+R = 0*** and ***S≈N***. We then obtain the following equation:
 
 ![eq1](/images/eq1.png)
 
