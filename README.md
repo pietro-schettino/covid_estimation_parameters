@@ -47,7 +47,7 @@ The value of the parameter ***β*** can be calculated based on the knowledge of 
 ![eq8](/images/eq8.png)
 
 **Step 5**:
-The value of the basic reproduction number ***R\ :sub:`0`*** mathematically represents the ratio of the transmission rate to the recovery rate.
+The value of the basic reproduction number ***R0*** mathematically represents the ratio of the transmission rate to the recovery rate.
 
 ![eq9](/images/eq9.png)
 
